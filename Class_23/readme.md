@@ -1,4 +1,4 @@
-# 🚀 Django Blog Deployment on AWS EC2
+# Django Blog Deployment on AWS EC2
 
 This project demonstrates how to deploy a Django application on an **AWS EC2 Ubuntu instance** using **Gunicorn** as the WSGI server.
 
@@ -88,8 +88,4 @@ django-blog/
 
 ---
 
-## 👩‍💻 Author
-
-Assignment by **\[Your Name]**
-Deployed on **AWS EC2 (Ubuntu 24.04)**
 
